@@ -1,6 +1,11 @@
-# Bienvenido / Welcome
-Proyectos y habilidades. / Projects and skills
-[Español](README_es.md) | [English](README_en.md)
+#  Bienvenido / Welcome
+
+**Projects and skills**
+
+[ **Español**](README_es.md)  |  [ **English**](README_en.md)
+
+
+
 
 
 <!---
