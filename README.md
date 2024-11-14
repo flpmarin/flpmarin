@@ -1,4 +1,6 @@
+# Bienvenido / Welcome
 
+[Español](#desarrollador-multiplataforma-en-formación) | [English](#multiplatform-developer-in-training)
 
 ## Desarrollador Multiplataforma en Formación
 
@@ -10,7 +12,7 @@ Enfocado en integrar conocimientos técnicos para diseñar soluciones tecnológi
 ## Multiplatform Developer in Training
 
 Experience optimizing resources and improving operational processes in dynamic environments.  
-Focused on applying technical knowledge to design technology-driven solutions that enhance efficiency and automate processes.
+Focused on applying technical knowledge to create technology-driven solutions that enhance efficiency and automate processes.
 
 
 <!---
