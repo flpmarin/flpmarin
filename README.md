@@ -1,6 +1,6 @@
 # Bienvenido / Welcome
 
-[Español](README_es.md) | [English](README_es.md)
+[Español](README_es.md) | [English](README_en.md)
 
 
 <!---
