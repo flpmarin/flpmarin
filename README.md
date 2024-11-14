@@ -1,4 +1,3 @@
-#  Bienvenido / Welcome
 
 **Projects and skills**
 
