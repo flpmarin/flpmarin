@@ -8,7 +8,7 @@ Hi there! 👋, I'm <strong>Felipe Marín</strong>, a cross-platform app develop
 </p>
 
 <!-- Contact Section -->
-### Reach out  
+### Reach out :) 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/fmarinb" target="_blank" rel="noreferrer">
     <picture> 
