@@ -25,7 +25,7 @@
 <h3>🛠️ My Tech Stack</h3>
 
 <!-- Programming Languages -->
-<h4>👨‍💻 Programming and Markup Languages</h4>
+<h4> Langs & Markup</h4>
 <p>
   <a href="https://www.oracle.com/java/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -36,7 +36,7 @@
 </p>
 
 <!-- Frameworks and Libraries -->
-<h4>🧰 Frameworks and Libraries</h4>
+<h4> Frameworks and Libs</h4>
 <p>
   <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white"></a>
   <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
@@ -46,7 +46,7 @@
 </p>
 
 <!-- Databases -->
-<h4>🗄️ Databases</h4>
+<h4> DBs</h4>
 <p>
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
   <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
