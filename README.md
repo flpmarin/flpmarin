@@ -17,8 +17,6 @@ Hi there! 👋, I'm <strong>Felipe Marín</strong>, a cross-platform app develop
 [![Proyecto Videojuegos-hub](https://svg.bookmark.style/api?url=https://github.com/flpmarin/videogame-hub-backend&mode=dark&style=horizontal)](https://github.com/flpmarin/videogame-hub-backend)
 
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://bookmark.style)](https://bookmark.style)
-
 [![Portfolio](https://img.shields.io/badge/+-Portfolio-brightgreen?style=for-the-badge)](https://github.com/flpmarin/turnos)
 
 <!-- Tech Stack Section -->
