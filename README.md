@@ -32,7 +32,6 @@ Hi there! 👋, I'm <strong>Felipe Marín</strong>, a cross-platform app develop
 
 
 
-
 <!-- Tech Stack Section -->
 <h2 align="left">My Tech Stack</h2>
 
