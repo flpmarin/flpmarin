@@ -32,35 +32,36 @@ Hi there! 👋, I'm <strong>Felipe Marín</strong>, a cross-platform app develop
 <h2 align="left"> Stack</h2>
 
 <!-- Languages and Markup -->
-<h3 align="left">Langs & Markup</h3>
+<h4 align="left">Langs & Markup</h4>
 <p align="left">
-  <a href="https://www.oracle.com/java/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" style="margin: 5px;"></a>
-  <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" style="margin: 5px;"></a>
+  <a href="https://www.oracle.com/java/"><img alt="Java" src="https://img.shields.io/badge/Java-4682B4.svg?logo=java&logoColor=white" style="margin: 5px;"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-4682B4.svg?logo=javascript&logoColor=white" style="margin: 5px;"></a>
+  <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-4682B4.svg?logo=php&logoColor=white" style="margin: 5px;"></a>
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-4682B4.svg?logo=python&logoColor=white" style="margin: 5px;"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-4682B4.svg?logo=html5&logoColor=white" style="margin: 5px;"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-4682B4.svg?logo=css3&logoColor=white" style="margin: 5px;"></a>
 </p>
 
 <!-- Frameworks and Libraries -->
-<h3 align="left">Frameworks & Libs</h3>
+<h4 align="left">Frameworks & Libs</h4>
 <p align="left">
-  <a href="https://spring.io/projects/spring-boot"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://ionicframework.com/"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF.svg?logo=ionic&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://www.odoo.com/" target="_blank"><img alt="Odoo" src="https://img.shields.io/badge/Odoo-343A40.svg?logo=odoo&logoColor=white" style="margin: 5px;"></a>
+  <a href="https://spring.io/projects/spring-boot"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-4682B4.svg?logo=springboot&logoColor=white" style="margin: 5px;"></a>
+  <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-4682B4.svg?logo=laravel&logoColor=white" style="margin: 5px;"></a>
+  <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django-4682B4.svg?logo=django&logoColor=white" style="margin: 5px;"></a>
+  <a href="https://ionicframework.com/"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-4682B4.svg?logo=ionic&logoColor=white" style="margin: 5px;"></a>
+  <a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4682B4.svg?logo=vue.js&logoColor=white" style="margin: 5px;"></a>
+  <a href="https://www.odoo.com/" target="_blank"><img alt="Odoo" src="https://img.shields.io/badge/Odoo-4682B4.svg?logo=odoo&logoColor=white" style="margin: 5px;"></a>
 </p>
 
 <!-- Databases -->
-<h3 align="left">Databases</h3>
+<h4 align="left">Databases</h4>
 <p align="left">
-  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://mariadb.org/"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" style="margin: 5px;"></a>
+  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4682B4.svg?logo=mysql&logoColor=white" style="margin: 5px;"></a>
+  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4682B4.svg?logo=postgresql&logoColor=white" style="margin: 5px;"></a>
+  <a href="https://mariadb.org/"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-4682B4.svg?logo=mariadb&logoColor=white" style="margin: 5px;"></a>
+  <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-4682B4.svg?logo=sqlite&logoColor=white" style="margin: 5px;"></a>
 </p>
+
 
 
 
