@@ -26,11 +26,7 @@ Hi there! 👋, I'm <strong>Felipe Marín</strong>, a cross-platform app develop
 [![Proyecto Gestor Cursos](https://svg.bookmark.style/api?url=https://github.com/flpmarin/springb_videogames_pr&mode=dark&style=horizontal)](https://github.com/flpmarin/springb_videogames_pr)
 
 
-
 [![Portfolio](https://img.shields.io/badge/+-Portfolio-brightgreen?style=for-the-badge)](https://github.com/flpmarin/turnos)
-
-
-
 
 <!-- Tech Stack Section -->
 <h2 align="left">My Tech Stack</h2>
