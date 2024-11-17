@@ -14,8 +14,10 @@ Hi there! 👋, I'm <strong>Felipe Marín</strong>, a cross-platform app develop
 
 [![Gestor Turnos](https://svg.bookmark.style/api?url=https://github.com/flpmarin/GestorDeTurnos&mode=dark&style=horizontal)](https://github.com/flpmarin/GestorDeTurnos)
 [![Proyecto Gestor Cursos](https://svg.bookmark.style/api?url=https://github.com/jaimemoralmillan/proyectoGestorCursos&mode=dark&style=horizontal)](https://github.com/jaimemoralmillan/proyectoGestorCursos)
-[![Proyecto Gestor Cursos](https://svg.bookmark.style/api?url=https://github.com/flpmarin/springb_videogames_pr&mode=dark&style=horizontal)](https://github.com/flpmarin/springb_videogames_pr)
+[![Proyecto Videojuegos-hub](https://svg.bookmark.style/api?url=https://github.com/flpmarin/videogame-hub-backend&mode=dark&style=horizontal)](https://github.com/flpmarin/videogame-hub-backend)
 
+
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://bookmark.style)](https://bookmark.style)
 
 [![Portfolio](https://img.shields.io/badge/+-Portfolio-brightgreen?style=for-the-badge)](https://github.com/flpmarin/turnos)
 
