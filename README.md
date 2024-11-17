@@ -7,17 +7,8 @@ Hi there! 👋, I'm <strong>Felipe Marín</strong>, a cross-platform app develop
   <img src="https://komarev.com/ghpvc/?username=flpmarin&label=Profile%20views&color=0e75b6&style=flat" alt="flpmarin" />
 </p>
 
-<!-- Contact Section -->
-### Reach out :) 
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/fmarinb" target="_blank" rel="noreferrer">
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </picture> 
-  </a>
-</p>
+
+
 
 <h2>Highlighted Projects</h2>
 
@@ -76,3 +67,16 @@ Hi there! 👋, I'm <strong>Felipe Marín</strong>, a cross-platform app develop
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flpmarin&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Top Languages" style="width: 30%;" />
   </p>
 </details>
+
+<!-- Contact Section -->
+### Reach out :) 
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/fmarinb" target="_blank" rel="noreferrer">
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+    </picture> 
+  </a>
+</p>
+
