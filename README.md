@@ -29,7 +29,7 @@ Hi there! 👋, I'm <strong>Felipe Marín</strong>, a cross-platform app develop
 [![Portfolio](https://img.shields.io/badge/+-Portfolio-brightgreen?style=for-the-badge)](https://github.com/flpmarin/turnos)
 
 <!-- Tech Stack Section -->
-<h2 align="left">My Tech Stack</h2>
+<h2 align="left"> Stack</h2>
 
 <!-- Languages and Markup -->
 <h3 align="left">Langs & Markup</h3>
