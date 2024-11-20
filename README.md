@@ -13,7 +13,7 @@ with a knack for optimizing resources and improving operational processes in air
 
 
 
-<code>Highlighted Projects</code>
+<code>Academic Projects</code>
 
 [![Gestor Turnos](https://svg.bookmark.style/api?url=https://github.com/flpmarin/GestorDeTurnos&mode=dark&style=horizontal)](https://github.com/flpmarin/GestorDeTurnos)
 [![Proyecto Gestor Cursos](https://svg.bookmark.style/api?url=https://github.com/jaimemoralmillan/proyectoGestorCursos&mode=dark&style=horizontal)](https://github.com/jaimemoralmillan/proyectoGestorCursos)
@@ -25,10 +25,6 @@ with a knack for optimizing resources and improving operational processes in air
 
 <!-- Languages and Markup -->
 <code>Langs & Markup</code> | <code>Frameworks & Libs</code> | <code> Databases </code>
-
-
-
-  <!-- Languages and Markup (Blue Theme) -->
   <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007BFF?style=flat-square&logo=java&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007BFF?style=flat-square&logo=javascript&logoColor=white" />
@@ -36,9 +32,10 @@ with a knack for optimizing resources and improving operational processes in air
   <img alt="Python" src="https://img.shields.io/badge/-Python-007BFF?style=flat-square&logo=python&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-007BFF?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-007BFF?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
 
-
+<p>
   <!-- Frameworks and Libraries (Green Theme) -->
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-28A745?style=flat-square&logo=spring-boot&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-28A745?style=flat-square&logo=laravel&logoColor=white" />
@@ -47,10 +44,11 @@ with a knack for optimizing resources and improving operational processes in air
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-28A745?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Odoo" src="https://img.shields.io/badge/-Odoo-28A745?style=flat-square&logo=odoo&logoColor=white" />
   <img alt="Filament" src="https://img.shields.io/badge/-Filament-28A745?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNOC4yNSA1Ljc1YTQuNzUgNC43NSAwIDEgMCAzLjc1IDEuNzVsLTIuNSA1Ljc1LTEuNzUtMy43NS0zLjc1LTEuNzUgNS43NSAyLjUgem0tMi41IDAuNzVhMy4yNSAzLjI1IDAgMSAwIDAuMDMgNi41IDMuMjUgMy4yNSAwIDAgMCAwLS4wM3ptMy41LTcuNSAzLjc1LTEuNzUtNS43NSAyLjUtMi41LTUuNzUgMS43NSAzLjc1em0wLjA2IDQuNzVhMy4yNSAzLjI1IDAgMSAwIDYuNDggMCAzLjI1IDMuMjUgMCAwIDAgLTYuNDggMHptMy41LTcuNWE0Ljc1IDQuNzUgMCAxIDAgLTMuNzUgMS43NWwyLjUgNS43NSAxLjc1LTMuNzUgMy43NS0xLjc1LTUuNzUtMi41eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" logoColor=white" />
+</p>
 
 
 
-
+<p>
   <!-- Databases (Orange Theme) -->
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FF7F00?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-FF7F00?style=flat-square&logo=postgresql&logoColor=white" />
