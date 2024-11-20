@@ -1,6 +1,9 @@
 <!-- Introduction Section -->
-Hi there! 👋, I'm <strong>Felipe Marín</strong>, a cross-platform app developer trainee with a knack for optimizing resources and improving operational processes in airports.
-</p>
+<code>Hi there!</code>
+```yaml
+I'm Felipe Marín: a cross-platform app developer trainee
+with a knack for optimizing resources and improving operational processes in airports.
+```
 
 <!-- Profile Views -->
 <p align="left">
@@ -10,7 +13,7 @@ Hi there! 👋, I'm <strong>Felipe Marín</strong>, a cross-platform app develop
 
 
 
-<h2>Highlighted Projects</h2>
+<code>Highlighted Projects</code>
 
 [![Gestor Turnos](https://svg.bookmark.style/api?url=https://github.com/flpmarin/GestorDeTurnos&mode=dark&style=horizontal)](https://github.com/flpmarin/GestorDeTurnos)
 [![Proyecto Gestor Cursos](https://svg.bookmark.style/api?url=https://github.com/jaimemoralmillan/proyectoGestorCursos&mode=dark&style=horizontal)](https://github.com/jaimemoralmillan/proyectoGestorCursos)
@@ -19,40 +22,41 @@ Hi there! 👋, I'm <strong>Felipe Marín</strong>, a cross-platform app develop
 
 [![Portfolio](https://img.shields.io/badge/+-Portfolio-brightgreen?style=for-the-badge)](https://github.com/flpmarin/turnos)
 
-<!-- Tech Stack Section -->
-<h2 align="left"> Stack</h2>
 
 <!-- Languages and Markup -->
-<h4 align="left">Langs & Markup</h4>
-<p align="left">
-  <a href="https://www.oracle.com/java/"><img alt="Java" src="https://img.shields.io/badge/Java-4682B4.svg?logo=java&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-4682B4.svg?logo=javascript&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-4682B4.svg?logo=php&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-4682B4.svg?logo=python&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-4682B4.svg?logo=html5&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-4682B4.svg?logo=css3&logoColor=white" style="margin: 5px;"></a>
-</p>
+<code>Langs & Markup</code> | <code>Frameworks & Libs</code> | <code> Databases </code>
 
-<!-- Frameworks and Libraries -->
-<h4 align="left">Frameworks & Libs</h4>
-<p align="left">
-  <a href="https://spring.io/projects/spring-boot"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-4682B4.svg?logo=springboot&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-4682B4.svg?logo=laravel&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django-4682B4.svg?logo=django&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://ionicframework.com/"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-4682B4.svg?logo=ionic&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4682B4.svg?logo=vue.js&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://www.odoo.com/" target="_blank"><img alt="Odoo" src="https://img.shields.io/badge/Odoo-4682B4.svg?logo=odoo&logoColor=white" style="margin: 5px;"></a>
-</p>
 
-<!-- Databases -->
-<h4 align="left">Databases</h4>
-<p align="left">
-  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4682B4.svg?logo=mysql&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4682B4.svg?logo=postgresql&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://mariadb.org/"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-4682B4.svg?logo=mariadb&logoColor=white" style="margin: 5px;"></a>
-  <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-4682B4.svg?logo=sqlite&logoColor=white" style="margin: 5px;"></a>
-</p>
 
+  <!-- Languages and Markup (Blue Theme) -->
+  <p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007BFF?style=flat-square&logo=java&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007BFF?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-007BFF?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-007BFF?style=flat-square&logo=python&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML5-007BFF?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-007BFF?style=flat-square&logo=css3&logoColor=white" />
+
+
+
+  <!-- Frameworks and Libraries (Green Theme) -->
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-28A745?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-28A745?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-28A745?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-28A745?style=flat-square&logo=ionic&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-28A745?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="Odoo" src="https://img.shields.io/badge/-Odoo-28A745?style=flat-square&logo=odoo&logoColor=white" />
+  <img alt="Filament" src="https://img.shields.io/badge/-Filament-28A745?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNOC4yNSA1Ljc1YTQuNzUgNC43NSAwIDEgMCAzLjc1IDEuNzVsLTIuNSA1Ljc1LTEuNzUtMy43NS0zLjc1LTEuNzUgNS43NSAyLjUgem0tMi41IDAuNzVhMy4yNSAzLjI1IDAgMSAwIDAuMDMgNi41IDMuMjUgMy4yNSAwIDAgMCAwLS4wM3ptMy41LTcuNSAzLjc1LTEuNzUtNS43NSAyLjUtMi41LTUuNzUgMS43NSAzLjc1em0wLjA2IDQuNzVhMy4yNSAzLjI1IDAgMSAwIDYuNDggMCAzLjI1IDMuMjUgMCAwIDAgLTYuNDggMHptMy41LTcuNWE0Ljc1IDQuNzUgMCAxIDAgLTMuNzUgMS43NWwyLjUgNS43NSAxLjc1LTMuNzUgMy43NS0xLjc1LTUuNzUtMi41eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" logoColor=white" />
+
+
+
+
+  <!-- Databases (Orange Theme) -->
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FF7F00?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-FF7F00?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-FF7F00?style=flat-square&logo=mariadb&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-FF7F00?style=flat-square&logo=sqlite&logoColor=white" />
+  </p>
 
 
 
@@ -68,15 +72,5 @@ Hi there! 👋, I'm <strong>Felipe Marín</strong>, a cross-platform app develop
   </p>
 </details>
 
-<!-- Contact Section -->
-### Reach out :) 
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/fmarinb" target="_blank" rel="noreferrer">
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </picture> 
-  </a>
-</p>
+
 
