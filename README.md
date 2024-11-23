@@ -1,6 +1,6 @@
-<!-- Introduction Section -->
-<code>Hi there!</code>
+
 ```yaml
+Hi there!
 I'm Felipe Marín: a cross-platform app developer trainee
 with a knack for optimizing resources and improving operational processes in airports.
 ```
