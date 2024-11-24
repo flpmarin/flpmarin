@@ -53,7 +53,6 @@ with a knack for optimizing resources and improving operational processes in air
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FF7F00?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-FF7F00?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-FF7F00?style=flat-square&logo=mariadb&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-FF7F00?style=flat-square&logo=sqlite&logoColor=white" />
   </p>
 
 
