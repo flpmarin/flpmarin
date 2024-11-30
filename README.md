@@ -13,18 +13,13 @@ with a knack for optimizing resources and improving operational processes in air
 
 
 
-<code>Academic Projects</code>
+**Academic Projects**
 
-| ![Card 1](https://tailwind-generator.b-cdn.net/images/card-generator/tailwind-card-generator-card-preview.png) | ![Card 2](https://tailwind-generator.b-cdn.net/images/card-generator/tailwind-card-generator-card-preview.png) | ![Card 3](https://tailwind-generator.b-cdn.net/images/card-generator/tailwind-card-generator-card-preview.png) |
+| <img src="https://tailwind-generator.b-cdn.net/images/card-generator/tailwind-card-generator-card-preview.png" alt="Gestor de Turnos" style="width: 100%; height: auto;"> | <img src="./cursos_preview.webp" alt="Course Manager" style="width: 100%; height: auto;"> | <img src="./videogames-preview.webp" alt="Videogame Hub Backend" style="width: 100%; height: auto;"> |
 |---|---|---|
-| **[Gestor de Turnos](https://github.com/flpmarin/GestorDeTurnos)** | **[Course Manager](https://github.com/flpmarin/CourseManager)** | **[Videogame Hub](https://github.com/flpmarin/videogame-hub-backend)** |
-| Java application using Swing to organize workers' shifts and positions. The application enables shift management, absence handling, work hour limits, automated shift assignment, and alerts. | A web application for managing courses and enrollments, built with Laravel and SQLite. Teachers can manage courses and students, while students can view available courses and their enrollments. Features include authentication, CRUD operations, and a responsive design with Tailwind CSS. | Backend for the Videogame Hub app, built with Spring Boot and MySQL. It provides APIs for managing video games and fetching gaming news. The backend is designed to integrate with the [Vue.js frontend](https://github.com/flpmarin/videogame-hub-frontend).|
-| **Technologies:**<br>- Java<br>- Swing<br>- Maven<br>- JDBC<br> | **Technologies:**<br>- Laravel + Blade<br>- JetStream Authentication- Tailwind<br> | **Technologies:**<br>- Spring Boot<br>- MySQL<br>- RESTful APIs<br>- Vue.js<br> |
-
-
-
-
-
+| **[Gestor de Turnos](https://github.com/flpmarin/GestorDeTurnos)** | **[Course Manager](https://github.com/flpmarin/CourseManager)** | **[Videogame Hub Backend](https://github.com/flpmarin/VideogameHubBackend)** |
+| Java application using Swing to organize workers' shifts and positions. The application enables shift management, absence handling, work hour limits and shift assignment. | A web application for managing courses and enrollments, built with Laravel. Teachers can manage courses and students, while students can view available courses and their enrollments. | Backend built with Spring Boot. It provides APIs for managing video games and fetching gaming news. The backend is designed to integrate with the [Vue.js frontend](https://github.com/flpmarin/videogame-hub-frontend). |
+| `Java` `Swing` `Maven` `JDBC` | `Laravel` `Blade` `JetStream Authentication` | `Spring Boot` `MySQL` `RESTful APIs` `Vue.js` |
 
 
 
@@ -37,7 +32,7 @@ with a knack for optimizing resources and improving operational processes in air
 
 
 <!-- Languages and Markup -->
-<code>Tech Stack Explored</code>
+**Tech Stack Explored**
   <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007BFF?style=flat-square&logo=java&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007BFF?style=flat-square&logo=javascript&logoColor=white" />
