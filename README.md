@@ -19,7 +19,7 @@ with a knack for optimizing resources and improving operational processes in air
 |---|---|---|
 | **[Gestor de Turnos](https://github.com/flpmarin/GestorDeTurnos)** | **[Course Manager](https://github.com/flpmarin/CourseManager)** | **[Videogame Hub Backend](https://github.com/flpmarin/VideogameHubBackend)** |
 | Java application using Swing to organize workers' shifts and positions. The application enables shift management, absence handling, work hour limits and shift assignment. | A web application for managing courses and enrollments, built with Laravel. Teachers can manage courses and students, while students can view available courses and their enrollments. | Backend built with Spring Boot. It provides APIs for managing video games and fetching gaming news. The backend is designed to integrate with the [Vue.js frontend](https://github.com/flpmarin/videogame-hub-frontend). |
-| `Java` `Swing` `Maven` `JDBC` | `Laravel` `Blade` `JetStream Authentication` | `Spring Boot` `MySQL` `RESTful APIs` `Vue.js` |
+| `Java` `Swing` `Maven` `JDBC` | `Laravel` `Blade` `JetStream-Authentication` | `Spring Boot` `MySQL` `RESTful APIs` `Vue.js` |
 
 
 
