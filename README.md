@@ -15,16 +15,29 @@ with a knack for optimizing resources and improving operational processes in air
 
 <code>Academic Projects</code>
 
-[![Gestor Turnos](https://svg.bookmark.style/api?url=https://github.com/flpmarin/GestorDeTurnos&mode=dark&style=horizontal)](https://github.com/flpmarin/GestorDeTurnos)
-[![Proyecto Gestor Cursos](https://svg.bookmark.style/api?url=https://github.com/jaimemoralmillan/proyectoGestorCursos&mode=dark&style=horizontal)](https://github.com/jaimemoralmillan/proyectoGestorCursos)
-[![Proyecto Videojuegos-hub](https://svg.bookmark.style/api?url=https://github.com/flpmarin/videogame-hub-backend&mode=dark&style=horizontal)](https://github.com/flpmarin/videogame-hub-backend)
+| ![Card 1](https://tailwind-generator.b-cdn.net/images/card-generator/tailwind-card-generator-card-preview.png) | ![Card 2](https://tailwind-generator.b-cdn.net/images/card-generator/tailwind-card-generator-card-preview.png) | ![Card 3](https://tailwind-generator.b-cdn.net/images/card-generator/tailwind-card-generator-card-preview.png) |
+|---|---|---|
+| **[Gestor de Turnos](https://github.com/flpmarin/GestorDeTurnos)** | **[Course Manager](https://github.com/flpmarin/CourseManager)** | **[Videogame Hub](https://github.com/flpmarin/videogame-hub-backend)** |
+| Java application using Swing to organize workers' shifts and positions. The application enables shift management, absence handling, work hour limits, automated shift assignment, and alerts. | A web application for managing courses and enrollments, built with Laravel and SQLite. Teachers can manage courses and students, while students can view available courses and their enrollments. Features include authentication, CRUD operations, and a responsive design with Tailwind CSS. | Backend for the Videogame Hub app, built with Spring Boot and MySQL. It provides APIs for managing video games and fetching gaming news. The backend is designed to integrate with the [Vue.js frontend](https://github.com/flpmarin/videogame-hub-frontend).|
+| **Technologies:**<br>- Java<br>- Swing<br>- Maven<br>- JDBC<br> | **Technologies:**<br>- Laravel + Blade<br>- JetStream Authentication- Tailwind<br> | **Technologies:**<br>- Spring Boot<br>- MySQL<br>- RESTful APIs<br>- Vue.js<br> |
 
 
-[![Portfolio](https://img.shields.io/badge/+-Portfolio-brightgreen?style=for-the-badge)](https://github.com/flpmarin/turnos)
+
+
+
+
+
+
+
+
+
+
+
+[![Portfolio](https://img.shields.io/badge/+-Portfolio-brightgreen?style=for-the-badge)](https://github.com/flpmarin)
 
 
 <!-- Languages and Markup -->
-<code>Langs & Markup</code> | <code>Frameworks & Libs</code> | <code> Databases </code>
+<code>Tech Stack Explored</code>
   <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007BFF?style=flat-square&logo=java&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007BFF?style=flat-square&logo=javascript&logoColor=white" />
